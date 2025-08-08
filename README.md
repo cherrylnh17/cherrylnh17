@@ -10,7 +10,7 @@
 - 💬 Ask me about **Tailwind Css**
 - 📫 How to reach me **myarchon38@gmail.com**
 - 👨‍💻 All of my projects are available at **https://portofolio-sigma-jade-15.vercel.app/**
-- ⚡ Fun fact **I Like Anime and Manga**
+- ⚡ Fun fact **I Like Anime, Manga and Games**
 
 <div> <a href="https://github.com/cherrylnh17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/https://www.instagram.com/cherrylnh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
