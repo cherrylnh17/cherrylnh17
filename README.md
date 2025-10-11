@@ -4,12 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cherrylnh17&theme=monokai" alt="cherrylnh17" /></a> </p>
 
-- 🔭 I’m currently working on [Komik Website](https://komik.cherryime.my.id/)
-- 🤝 I’m looking for help with [Komik Website](https://komik.cherryime.my.id/)
+- 🔭 I’m currently working on [Shortlyc Website](https://shortlyc.my.id/)
+- 🤝 I’m looking for help with [Organitation Website](https://insankamil.my.id)
 - 🌱 I’m currently learning **Inertia Js**
 - 💬 Ask me about **Tailwind Css**
 - 📫 How to reach me **myarchon38@gmail.com**
-- 👨‍💻 All of my projects are available at **https://portofolio-sigma-jade-15.vercel.app/**
+- 👨‍💻 All of my projects are available at **https://www.cherry.biz.id/**
 - ⚡ Fun fact **I Like Anime, Manga and Games**
 
 <div> <a href="https://github.com/cherrylnh17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
