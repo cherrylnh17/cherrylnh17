@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cherrylnh17&theme=monokai" alt="cherrylnh17" /></a> </p>
 
-- 🔭 I’m currently working on [Shortlyc Website](https://shortlyc.my.id/)
+- 🔭 I’m currently working on -
 - 🤝 I’m looking for help with [Organitation Website](https://insankamil.my.id)
 - 🌱 I’m currently learning **Inertia Js**
 - 💬 Ask me about **Tailwind Css**
