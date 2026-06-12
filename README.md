@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=20&center=true&lines=I'm+Luqman+Nur+Hakim+—+from+Indonesia+☁;Full+Stack+Engineer+%7C+Next.js+%26+Laravel;AI+Researcher+%7C+NLP+%26+Deep+Learning;I+love+building+things+that+actually+matter;Currently+vibing+to+Taylor+Swift+on+repeat;Be+welcome+to+collaborate+with+me!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=20&center=true&lines=I%27m+Luqman+Nur+Hakim+%E2%80%94+from+Indonesia;Full+Stack+Engineer+%7C+Next.js+%26+Laravel;AI+Researcher+%7C+NLP+%26+Deep+Learning;I+love+building+things+that+actually+matter;Currently+vibing+to+Taylor+Swift+on+repeat;Be+welcome+to+collaborate+with+me!" alt="Typing SVG" />
 </div>
 
 <br/>
