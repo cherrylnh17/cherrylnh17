@@ -1,16 +1,33 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,30:1E1432,60:2A1B3D,100:1E1432&height=120&section=header&text=&fontSize=1&animation=twinkling" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4f46e5&height=200&section=header&text=Luqman%20Nur%20Hakim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<div align="center">
+  <!-- Replace these paths with your actual GIF paths after uploading to your repo -->
+  <img src="./assets/char1.gif" width="180" />
+  <img src="./assets/char2.gif" width="180" />
+  <img src="./assets/char3.gif" width="180" />
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Engineer+%7C+Next.js+%26+Laravel;AI+Researcher+%7C+NLP+%26+Deep+Learning;Building+products+that+solve+real+problems;Computer+Science+%40+UMKU+%E2%80%94+Indonesia)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://img.shields.io/badge/hi_there_♡-1E1432?style=for-the-badge&labelColor=2A1B3D&color=8b5cf6" />
+</div>
 
 <br/>
 
-![CS Student](https://img.shields.io/badge/Computer%20Science-Universitas%20Muhammadiyah%20Kudus-6d28d9?style=flat-square&logo=graduation-cap&logoColor=white)
-![Published](https://img.shields.io/badge/SINTA%203-Published%20Researcher-7c3aed?style=flat-square&logo=bookstack&logoColor=white)
-![Location](https://img.shields.io/badge/Kudus%2C%20Central%20Java-Indonesia-4f46e5?style=flat-square&logo=google-maps&logoColor=white)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=20&center=true&lines=I'm+Luqman+Nur+Hakim+—+from+Indonesia+☁;Full+Stack+Engineer+%7C+Next.js+%26+Laravel;AI+Researcher+%7C+NLP+%26+Deep+Learning;I+love+building+things+that+actually+matter;Currently+vibing+to+Taylor+Swift+on+repeat;Be+welcome+to+collaborate+with+me!" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+
+![CS Student](https://img.shields.io/badge/Computer%20Science-UMKU-6d28d9?style=flat-square&logoColor=white)
+![Published](https://img.shields.io/badge/SINTA%203-Published%20Researcher-7c3aed?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/Kudus%2C%20Central%20Java-Indonesia-4f46e5?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -21,11 +38,47 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=cherrylnh17&style=flat-square&color=6d28d9&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/cherrylnh17?style=flat-square&color=7c3aed&label=Followers&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/cherrylnh17?style=flat-square&color=4f46e5&label=Stars&logo=github)
+[![Profile Views](https://komarev.com/ghpvc/?username=cherrylnh17&style=for-the-badge&color=8B6FBF&label=PROFILE+VIEWS)](https://github.com/cherrylnh17)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/cherrylnh17&query=public_repos&style=for-the-badge&label=PUBLIC+REPOS&color=C0A0E8&labelColor=1E1432)](https://github.com/cherrylnh17?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/cherrylnh17?style=for-the-badge&color=7c3aed&label=FOLLOWERS&labelColor=1E1432&logo=github)](https://github.com/cherrylnh17)
 
 </div>
+
+---
+
+<details align="center">
+  <summary><samp><b>✦ More About Me ✦</b></samp></summary>
+
+<br/>
+
+<div align="center">
+
+I'm a CS student who loves building things — from web platforms to AI research to CLI tools. I care about making technology that helps real people, especially in the Indonesian academic and community space. When I'm not coding, I'm probably watching anime, pulling in Genshin, or listening to Taylor Swift on loop.
+
+<br/>
+
+> **Open To** — Research Collaboration · Open Source Contribution · Full-time Opportunities
+
+<br/>
+
+<div align="center" style="display: inline_block">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Supabase-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" />
+</div>
+
+</div>
+
+</details>
 
 ---
 
@@ -34,10 +87,6 @@
 I am a Computer Science student at Universitas Muhammadiyah Kudus with a strong interest in web development, artificial intelligence, and digital product development. I enjoy building projects that solve real problems — especially in education, research, community, and online interaction.
 
 My journey started from learning how to build websites, then grew into developing full-stack digital platforms, experimenting with AI models, contributing to campus organizations, and creating open tools that help other developers and researchers. I have published a scientific paper on Indonesian toxic comment classification using fine-tuned IndoBERT, indexed at SINTA 3.
-
-Through this profile, I share selected projects that reflect my learning process, curiosity, work ethic, and motivation to grow as an engineer and researcher.
-
-<br/>
 
 > **Open To** — Research Collaboration · Open Source Contribution · Full-time Opportunities
 
@@ -92,8 +141,6 @@ Through this profile, I share selected projects that reflect my learning process
 
 > A web platform that helps Indonesian students, lecturers, and researchers find, explore, and evaluate scientific journal information more efficiently than official portals.
 
-<br/>
-
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Next.js · JavaScript · Tailwind CSS · Supabase · Python · JSON |
@@ -102,11 +149,9 @@ Through this profile, I share selected projects that reflect my learning process
 | **Performance** | React Server Components + Islands Architecture · Supabase fetch caching · On-demand revalidation |
 | **Security** | Supabase Google OAuth (PKCE flow) · IP-based rate limiting on AI endpoints |
 | **Impact** | Primary discovery tool for Indonesian academic publishing landscape |
-| **Repository** | [github.com/cherrylnh17/journalku](https://github.com/cherrylnh17) |
+| **Repository** | [github.com/cherrylnh17](https://github.com/cherrylnh17) |
 
-JournalKu was built to solve a real friction point — Indonesian researchers spend significant time navigating fragmented journal portals like SINTA, Garuda, and OJS. This platform consolidates that data into a clean, searchable interface with AI-assisted writing tools built directly into the research workflow. The admin panel supports full journal CRUD, backup utilities, reports management, and schema-level updates. The AI layer uses Gemini-powered endpoints with model fallback, refined Indonesian-language prompts, and structured output with PDF export support.
-
-<br/>
+JournalKu was built to solve a real friction point — Indonesian researchers spend significant time navigating fragmented portals like SINTA, Garuda, and OJS. This platform consolidates that data into a clean, searchable interface with AI-assisted writing tools built directly into the research workflow.
 
 </details>
 
@@ -117,21 +162,16 @@ JournalKu was built to solve a real friction point — Indonesian researchers sp
 
 > A deep learning research project building an NLP model for automated toxic comment detection on Indonesian social media platforms.
 
-<br/>
-
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Python · TensorFlow · IndoBERT · HuggingFace Transformers · scikit-learn |
 | **Domain** | Natural Language Processing · Text Classification · Social Media Analysis |
 | **Approach** | Pre-trained IndoBERT fine-tuned on Indonesian toxic comment dataset with full preprocessing pipeline |
-| **Evaluation** | Model performance benchmarked across precision, recall, F1-score, and accuracy metrics |
+| **Evaluation** | Benchmarked across precision, recall, F1-score, and accuracy metrics |
 | **Publication** | Published — SINTA 3, JURIKOM (Jurnal Riset Komputer) |
-| **Impact** | Contributes toward automated content moderation for safer Indonesian online spaces |
 | **Paper** | [ejurnal.stmik-budidarma.ac.id](https://ejurnal.stmik-budidarma.ac.id/index.php/jurikom/article/view/9449) |
 
-This research addresses the gap in Indonesian-language NLP tooling for content moderation. English-centric toxicity classifiers perform poorly on Indonesian text due to linguistic structure differences and mixed-language usage. By fine-tuning IndoBERT on domain-specific data, the model achieves meaningful classification performance on colloquial Indonesian social media text. The full pipeline covers dataset curation, text normalization, tokenization, training, and evaluation — published and indexed at SINTA 3.
-
-<br/>
+Research addressing the gap in Indonesian-language NLP tooling for content moderation. By fine-tuning IndoBERT on domain-specific data, the model achieves meaningful classification on colloquial Indonesian social media text — published and indexed at SINTA 3.
 
 </details>
 
@@ -140,21 +180,17 @@ This research addresses the gap in Indonesian-language NLP tooling for content m
 
 <br/>
 
-> A developer CLI and template scaffold for generating production-ready Next.js starter projects tailored for small business and product use cases.
-
-<br/>
+> A developer CLI and template scaffold for generating production-ready Next.js starter projects tailored for small business use cases.
 
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Node.js · TypeScript · Next.js · Tailwind CSS · CLI (Commander.js) |
 | **Status** | Active Development |
-| **Features** | CLI scaffolding flow · Modular template system · Landing page · Product catalog · Admin dashboard · Auth · WhatsApp-based checkout integration |
+| **Features** | CLI scaffolding flow · Modular template system · Landing page · Product catalog · Admin dashboard · Auth · WhatsApp-based checkout |
 | **Target Users** | Developers building UMKM / SME digital storefronts quickly |
 | **Repository** | [github.com/cherrylnh17](https://github.com/cherrylnh17) |
 
-Cherry Kit is a personal DX (developer experience) project born from repetitive boilerplate setup across multiple client-adjacent projects. The CLI generates a base Next.js project with opinionated structure — routing, layout, auth hooks, and business-specific modules pre-wired — reducing initial setup time from hours to minutes for common small business website patterns in the Indonesian UMKM space.
-
-<br/>
+A personal DX project born from repetitive boilerplate setup. The CLI generates a base Next.js project with opinionated structure — routing, layout, auth hooks, and business modules pre-wired.
 
 </details>
 
@@ -163,21 +199,16 @@ Cherry Kit is a personal DX (developer experience) project born from repetitive 
 
 <br/>
 
-> Official website for IMM Insan Kamil UMKU, built to support organizational communication, activity documentation, and member information.
-
-<br/>
+> Official website for IMM Insan Kamil UMKU, supporting organizational communication, activity documentation, and member information.
 
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Laravel · Livewire · PHP · MySQL · Tailwind CSS |
 | **Features** | Activity documentation · Member profiles · Team pages · Developer credits · Content management |
 | **Scope** | Full-stack development, UI improvements, accessibility, and ongoing maintenance |
-| **Organization** | IMM Insan Kamil, Universitas Muhammadiyah Kudus |
 | **Repository** | [github.com/cherrylnh17](https://github.com/cherrylnh17) |
 
-Built and maintained as the sole developer for the campus chapter of Ikatan Mahasiswa Muhammadiyah. The system handles public-facing organizational content alongside an internal management layer for activity records and announcements.
-
-<br/>
+Built and maintained as sole developer for the campus chapter of Ikatan Mahasiswa Muhammadiyah.
 
 </details>
 
@@ -185,57 +216,31 @@ Built and maintained as the sole developer for the campus chapter of Ikatan Maha
 
 ## `Experience`
 
-**Secretary** · HIMA Ilmu Komputer — Universitas Muhammadiyah Kudus
-`2025 – 2026`
+**Secretary** · HIMA Ilmu Komputer — Universitas Muhammadiyah Kudus `2025 – 2026`
 
-Managed organizational administration, official documents, activity records, and meeting minutes for the Computer Science student association.
-
+Managed organizational administration, official documents, activity records, and meeting minutes.
 - Coordinated internal communication across divisions to ensure operational continuity
-- Maintained structured documentation for all formal academic and non-academic activities
 
-![Organization](https://img.shields.io/badge/Organization-Leadership-6d28d9?style=flat-square)
-![Administration](https://img.shields.io/badge/Skill-Administration-7c3aed?style=flat-square)
-![Communication](https://img.shields.io/badge/Skill-Communication-4f46e5?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-1E1432?style=flat-square&color=6d28d9)
+![Administration](https://img.shields.io/badge/Administration-1E1432?style=flat-square&color=7c3aed)
 
 <br/>
 
-**Secretary, Media & Communication Division** · IMM Insan Kamil UMKU
-`2025 – Present`
+**Secretary, Media & Communication** · IMM Insan Kamil UMKU `2025 – Present`
 
-Developed and maintained the organization's website to support information dissemination, activity documentation, and digital publication.
+Developed and maintained the organization's website; led UI improvements and digital content workflow.
 
-- Led UI improvements and feature additions including team pages and accessibility enhancements
-- Managed digital content publication workflow across organizational channels
-
-![Laravel](https://img.shields.io/badge/Stack-Laravel-6d28d9?style=flat-square)
-![Web Dev](https://img.shields.io/badge/Skill-Web%20Development-7c3aed?style=flat-square)
-![Content](https://img.shields.io/badge/Skill-Digital%20Communication-4f46e5?style=flat-square)
+![Laravel](https://img.shields.io/badge/Laravel-1E1432?style=flat-square&color=6d28d9)
+![Web Development](https://img.shields.io/badge/Web%20Development-1E1432?style=flat-square&color=7c3aed)
 
 <br/>
 
-**Course Experience Tester** · Dicoding Indonesia
-`2025 – 2026`
+**Course Experience Tester & Community Builder** · Dicoding Indonesia `2025 – 2026`
 
-Evaluated learning materials and platform features from a learner experience perspective.
+Evaluated learning materials and facilitated a campus-based technology community for independent learners.
 
-- Provided structured feedback on course clarity, content flow, and usability of the learning platform
-- Contributed to quality assurance for Dicoding's curriculum improvement pipeline
-
-![QA](https://img.shields.io/badge/Skill-Quality%20Assurance-6d28d9?style=flat-square)
-![Feedback](https://img.shields.io/badge/Skill-Curriculum%20Review-7c3aed?style=flat-square)
-
-<br/>
-
-**Community Builder** · Dicoding Indonesia
-`2025 – 2026`
-
-Bridged Dicoding's learning ecosystem with campus students, supporting independent learning initiatives.
-
-- Curated learning pathways and facilitated a campus-based technology learning community
-- Supported student onboarding to self-directed technical education
-
-![Community](https://img.shields.io/badge/Skill-Community%20Building-6d28d9?style=flat-square)
-![Education](https://img.shields.io/badge/Skill-Tech%20Education-4f46e5?style=flat-square)
+![QA](https://img.shields.io/badge/Quality%20Assurance-1E1432?style=flat-square&color=6d28d9)
+![Community](https://img.shields.io/badge/Community%20Building-1E1432?style=flat-square&color=4f46e5)
 
 ---
 
@@ -245,11 +250,10 @@ Bridged Dicoding's learning ecosystem with campus students, supporting independe
 
 | Recognition | Details |
 |:---:|:---|
-| 📄 Published Researcher | *Klasifikasi Komentar Toksik Berbahasa Indonesia di Media Sosial Berbasis Fine-Tuning IndoBERT* — JURIKOM, SINTA 3, 2026 |
-| 🔬 AI/NLP Research | Indonesian-language toxic comment classification — full pipeline from data to publication |
-| 🌐 Platform Founder | JournalKu — Indonesian scientific journal discovery platform, active in production |
-| 🛠️ Open Source Builder | Sole developer across multiple full-stack products: JournalKu, Cherry Kit, IMM Website |
-| 🤝 Organizational Leader | Secretary roles in HIMA Ilmu Komputer & IMM Insan Kamil, UMKU |
+| 📄 Published Researcher | *Klasifikasi Komentar Toksik Berbahasa Indonesia* — JURIKOM, SINTA 3, 2026 |
+| 🌐 Platform Founder | JournalKu — Indonesian scientific journal discovery, active in production |
+| 🛠️ Open Source Builder | Sole developer — JournalKu, Cherry Kit, IMM Website |
+| 🤝 Organizational Leader | Secretary at HIMA Ilmu Komputer & IMM Insan Kamil UMKU |
 
 </div>
 
@@ -297,7 +301,7 @@ Bridged Dicoding's learning ecosystem with campus students, supporting independe
 
 <div align="center">
 
-[![Luqman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cherrylnh17&bg_color=0d0d0d&color=8b5cf6&line=6d28d9&point=c4b5fd&area=true&hide_border=true&area_color=4f46e5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cherrylnh17&bg_color=0d0d0d&color=8b5cf6&line=6d28d9&point=c4b5fd&area=true&hide_border=true&area_color=4f46e5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -342,17 +346,85 @@ status:
 
 ---
 
+## `Personal Interests`
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A1A,50:2A1028,100:0D0A1A&height=80&text=Beyond%20the%20Code&fontSize=28&fontColor=C0A0E8&fontAlignY=55&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1028,100:0D0A1A&height=35&text=ANIME&fontSize=26&fontColor=C0A0E8&fontAlignY=58" width="100%" />
+
+<br/>
+
+![No Game No Life](https://img.shields.io/badge/No_Game_No_Life-C0A0E8?style=for-the-badge&labelColor=1E1432)
+
+Currently obsessed with Shiro & Sora's big brain plays. If life were a game, I'd want their cheat codes.
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2A1B3D,100:0D0A1A&height=35&text=GAMES&fontSize=26&fontColor=C0A0E8&fontAlignY=58" width="100%" />
+
+<br/>
+
+![Genshin Impact](https://img.shields.io/badge/Genshin_Impact-C0A0E8?style=for-the-badge&labelColor=1E1432)
+![Honkai: Star Rail](https://img.shields.io/badge/Honkai:_Star_Rail-8B6FBF?style=for-the-badge&labelColor=1E1432)
+![Clash of Clans](https://img.shields.io/badge/Clash_of_Clans-C0A0E8?style=for-the-badge&labelColor=1E1432)
+
+F2P struggles but still pulling. My resin is always capped.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:1A1B3D,100:0D0A1A&height=35&text=MUSIC&fontSize=26&fontColor=C0A0E8&fontAlignY=58" width="100%" />
+
+<br/>
+
+![Taylor Swift](https://img.shields.io/badge/Taylor_Swift-C0A0E8?style=for-the-badge&labelColor=1E1432)
+
+*"You're on your own, kid — you always have been."*
+
+Currently on my eras arc. The coding hits different with Midnights on.
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A1A,50:2D1A3D,100:0D0A1A&height=35&text=READING%20%26%20WATCHING&fontSize=22&fontColor=C0A0E8&fontAlignY=58" width="100%" />
+
+<br/>
+
+![Books](https://img.shields.io/badge/Books_%26_Articles-8B6FBF?style=for-the-badge&labelColor=1E1432)
+![Films](https://img.shields.io/badge/Films_%26_Anime-C0A0E8?style=for-the-badge&labelColor=1E1432)
+
+Research papers by day, light novels by night. Also somehow always find time for one more episode.
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## `Connect`
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/masluqman371%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masluqman371@gmail.com)
+[![Gmail](https://img.shields.io/badge/masluqman371%40gmail.com-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:masluqman371@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Luqman%20Nur%20Hakim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqman-nur-hakim-82343933b/)
+[![LinkedIn](https://img.shields.io/badge/Luqman%20Nur%20Hakim-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luqman-nur-hakim-82343933b/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/cherrylnh17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cherrylnh17)
+[![GitHub](https://img.shields.io/badge/cherrylnh17-2e3440?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/cherrylnh17)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/cherry.biz.id-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://cherry.biz.id)
+[![Portfolio](https://img.shields.io/badge/cherry.biz.id-2e3440?style=for-the-badge&logo=vercel&logoColor=fff)](https://cherry.biz.id)
 
 </div>
 
@@ -364,6 +436,6 @@ status:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=120&section=footer&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1432,30:2A1B3D,60:1E1432,100:0D0A1A&height=120&section=footer&text=&fontSize=1" width="100%" />
 
 </div>
